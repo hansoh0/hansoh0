@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @cheezyteague
-- 👀 I’m interested in security software and entertainment software
-- 🌱 I’m currently learning Java
+- Hi im canyon!
+- Im mostly interested in security-related software however, I also like builing practical and entertaining software.
+- Im currently learning Java and sharpening my skills in Python and BASH.
