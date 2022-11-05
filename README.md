@@ -1,4 +1,4 @@
 - Hi im canyon!
 - Im mostly interested in security-related software however, I also like building practical and entertaining software.
 - Im currently learning Java and sharpening my skills in Python and BASH.
-- Hoping to learn Python, JS, Java, C++, Assembly, and Rust
+- Hoping to learn Python, JS, Java, C#, Assembly, and Rust
