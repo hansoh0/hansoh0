@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=tansparent&color=0:000000,100:64005e&height=200&section=header&text=Hansoho.git&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0:000000,100:64005e&height=200&section=header&text=hansoho&fontSize=80&fontColor=ffffff)
 <div align="center">
 <span>
   <img src="https://gifdb.com/images/high/this-is-fine-it-crowd-p0j0j9x99r6hdpsw.gif" style="width:30%; display:inline;">
