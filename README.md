@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansoh0&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark" alt="langstats">
 </a>
 <a>
-  <img src="https://www.google.com/search?client=firefox-b-1-d&sca_esv=38f86143adb6b4c3&q=it+crowd+gif&udm=2&fbs=AEQNm0A-TSThzBStWy2iQzbzvM8E5ytGZgQarMcVdjSRMHEykQsJIIW3mMRcWfBgJOzPk-cPWvhXxL_F4H7OyCd1cT8FJpfyL5VNBOqrK8x_rXpRW3bNQ6bdCe9HWfVt2CFb3FjX8aBZzrmjzBF8K97Lo5tlbabTOvH2ybDz5nvSxUma5RCg07d8qpbQoLZoEqdnzwehLX_gpc-T6EqhAck-Cn7J-SyeBQ&sa=X&ved=2ahUKEwj6vt2nvNeGAxVFkIkEHWjjD-UQtKgLegQIGBAB&biw=1718&bih=1273&dpr=1#vhid=eBL-9H5y4UEY1M&vssid=mosaic">
+  <img src="https://gifdb.com/images/high/this-is-fine-it-crowd-p0j0j9x99r6hdpsw.gif">
 </a>
 </div>
 
