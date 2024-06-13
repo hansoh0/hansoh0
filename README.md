@@ -13,12 +13,12 @@
 </a>
 </div>
 <div align="center">
-<a>
+<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansoh0&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark" alt="langstats">
-</a>
-<a>
+</span>
+<span>
   <img src="https://gifdb.com/images/high/this-is-fine-it-crowd-p0j0j9x99r6hdpsw.gif" style="width:30%; display:inline;">
-</a>
+</span>
 </div>
 
 # 🧰 Tools
