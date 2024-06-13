@@ -6,13 +6,13 @@
 <a href="mailto:hansoho@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
 </a>
+<a>
+  <img src="https://komarev.com/ghpvc/?username=hansoh0&style=flat-square&color=blue" alt="profviews"/>
+</a>
 </div>
 <div align="center">
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansoh0&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark" alt="langstats">
-</a>
-<a>
-  <img src="https://komarev.com/ghpvc/?username=hansoh0&style=flat-square&color=blue" alt="profviews"/>
 </a>
 </div>
 
