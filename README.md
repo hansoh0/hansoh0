@@ -3,6 +3,7 @@
 <span>
   <img src="https://gifdb.com/images/high/this-is-fine-it-crowd-p0j0j9x99r6hdpsw.gif" style="width:30%; display:inline;">
 </span>
+  <br>
 <a href="https://discord.com/users/hansoho" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
