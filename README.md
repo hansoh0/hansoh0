@@ -8,6 +8,9 @@
 </a>
 </div>
 
+
+## Tools
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg)" alt="python" width="45" height="45"/>
 - Hi im canyon!
 - Im mostly interested in security-related software however, I also like building practical and entertaining software.
 - Im currently learning C and sharpening my skills in Java and Python.
