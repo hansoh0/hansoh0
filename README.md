@@ -14,7 +14,7 @@
 <div align="center">
 <a>
   <img src="https://komarev.com/ghpvc/?username=hansoh0&style=flat-square&color=ff69b4" alt="profviews"/>
-  <img src="https://badgen.net/github/commits/EbookFoundation/free-programming-books/main" alt="commits"/>
+  <img src="https://img.shields.io/github/contributions/total/hansoh0" alt="contrib"/>
 </a>
 </div>
 <br>
