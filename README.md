@@ -3,7 +3,7 @@
 <span>
   <img src="https://gifdb.com/images/high/this-is-fine-it-crowd-p0j0j9x99r6hdpsw.gif" style="width:30%; display:inline;">
 </span>
-  <br><br>
+<br><br>
 <a href="https://discord.com/users/hansoho" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
@@ -16,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=hansoh0&style=flat-square&color=blue" alt="profviews"/>
 </a>
 </div>
+<br><br>
 <div align="center">
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansoh0&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark" alt="langstats">
