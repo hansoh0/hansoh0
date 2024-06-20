@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0:000000,100:64005e&height=200&section=header&text=hansoho%20🚀&fontSize=80&fontColor=ffffff)
 <div align="center">
 <span>
-  <img src="https://i.pinimg.com/originals/81/9b/36/819b36cdfbf3d4c93a4d1a7e8b76d66d.gif" style="width:75%; display:inline;">
+  <img src="https://i.pinimg.com/originals/81/9b/36/819b36cdfbf3d4c93a4d1a7e8b76d66d.gif" style="width:95%; display:inline;">
 </span>
 <br><br>
 <a href="https://discord.com/users/hansoho" target="_blank">
