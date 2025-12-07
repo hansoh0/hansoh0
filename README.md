@@ -7,9 +7,6 @@
 <a href="https://discord.com/users/hansoho" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="mailto:hansoho@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
-</a>
 </div>
 <div align="center">
 <a>
